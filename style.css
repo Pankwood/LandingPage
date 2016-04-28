@@ -1,0 +1,58 @@
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+  #my-header{
+  text-align: center;
+  background-image: url("http://lorempixel.com/1300/600/technics");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#my-header h1{
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: -1px;
+}
+
+
+.feature{
+  padding: 50px;
+  font-weight: 300px;
+}
+
+.feature img{
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+
+.social-midia{
+  font-size: 24px;
+  color: black;
+}
+
+.social-midia a{
+  font-size: 24px;
+  color: black;
+}
+
+.social-midia a :hover{
+  font-size: 24px;
+  color: lightgray;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
+
