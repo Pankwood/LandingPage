@@ -1,6 +1,6 @@
 # LandingPage
 
-<h2>Feel free to clone or fork this project, just star it.</h2>
+<h2>Is a single web page that appears in response to clicking on a search engine optimized search result or an online advertisement.</h2>
 
 Amazing tools used:
 <ul>
