@@ -1,3 +1,19 @@
+ @media (min-width:0px) and (max-width:640px) {
+  header{
+    padding: 60px!important;
+  }
+
+  .feature{
+     padding: 15px!important;
+  }
+}
+
+@media (min-width:768px) {
+.feature{
+     padding: 15px!important;
+  } 
+}
+
 /* Font style by Google Fonts */
 p {
   font-family: 'Lato', sans-serif;
@@ -24,6 +40,12 @@ header{
 header h1{
   font-family: 'Poppins', sans-serif;
   letter-spacing: -1px;
+}
+
+.brand{
+  background: rgba(211, 211, 211, 0.3);
+  border-radius: 50px;
+  padding-bottom: 20px;
 }
 
 
