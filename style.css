@@ -26,6 +26,21 @@ p {
   border-radius: 0;
 }
 
+.dropdown-menu {
+  box-shadow: none;
+}
+
+.dropdown-menu > li > a {
+  font-family: 'Lato', sans-serif;
+  font-weight: lighter;
+}
+
+.avatar-small {
+ border-radius: 50%;
+  width: 30px; 
+  padding-top: 25%;
+}
+
 /* Random image by lorempixel.com */
 header{
   text-align: center;
